@@ -1,7 +1,8 @@
 <h2 align="left">Eu</h2>
-
+Sou desenvolvedor com interesse em linguagens de baixo nível e desenvolvimento web. Gosto de entender a fundo como a tecnologia funciona e de desenvolver software eficiente e bem estruturado. Tenho experiência tanto no uso do terminal quanto em ferramentas modernas de desenvolvimento, sempre buscando melhorar minhas habilidades e expandir meu conhecimento em programação.
 ###
 
+<h2 align="left">contato</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/alan-undefined-806542313/?trk=opento_sprofile_goalscard" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
